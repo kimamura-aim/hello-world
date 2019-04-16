@@ -1,2 +1,2 @@
 # hello-world
-jusy another repository
+Git チュートリアル
